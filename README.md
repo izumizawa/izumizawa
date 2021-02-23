@@ -5,7 +5,7 @@ I'm a computer engineering student at Unicamp and UI/UX designer in love with te
 
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning how to build REST Java api's and React Native applications.
-- 💬 Ask me about design UI and UX <3
+- 💬 Ask me about UI and UX design <3
 - ⚡ Fun fact: I enjoy playing Valorant with my friends 
 
 - 📫 How to reach me: 
